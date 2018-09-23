@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "expect": "^1.20.2",
+    "rewire": "^4.0.1",
     "supertest": "^3.3.0"
   }
 }
